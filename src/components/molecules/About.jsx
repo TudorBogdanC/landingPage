@@ -21,7 +21,7 @@ const About = () => {
               Salve, viandante digitale e benvenuto sulla mia pagina personale.
               Mi chiamo Tudor e ho una passione per le lingue, i linguaggi di
               programmazione e le tecnologie web. Sono anche un amante dei
-              giochi di ruolo e sono affascinanto da tutto ciò che è l'UX / UI
+              giochi di ruolo e sono affascinato da tutto ciò che è l'UX / UI
               Design. Dopo la laurea in ambito linguistico, ho deciso di
               iniziare un coinvolgente viaggio nello studio dei linguaggi di
               programmazione per il web.

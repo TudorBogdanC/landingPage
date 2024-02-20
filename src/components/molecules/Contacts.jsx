@@ -11,7 +11,7 @@ const Contacts = () => {
                         <Col xl={8}>
                             <h2 className="section-title3">Contatti</h2>
                             <p> Se condividete la mia curiosità per il mondo digitale e web, la conoscenza di nuove tecnologie, la ricerca di continuo miglioramento
-                                e il costante apprendimento per migliorare le mie competenze, non esitare a contattarmi. 
+                                e il costante apprendimento per migliorare le proprie competenze, non esitate a contattarmi. 
                                 <br/>
                                 <br/> Vorrei mettermi alla prova ed imparare grazie a professionisti e realtà
                                 che credono in un futuro in continua evoluzione e che vogliono investire nei giovani. </p>
